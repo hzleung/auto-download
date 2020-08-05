@@ -1,0 +1,27 @@
+.upload {
+  width: 700px;
+  text-align: center;
+  margin: 100px auto;
+  border: 1px dashed #d9d9d9;
+  cursor: pointer;
+  background: #F0F3F5;
+}
+
+.card {
+  width: 392px;
+  height: 302px;
+  position: relative;
+  overflow: hidden;
+  background: #fff;
+  border-radius: 4px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-self: center;
+  padding: 20px 10px;
+  margin: 20px auto;
+}
+
+.card_item {
+  width: 33.33%;
+}
